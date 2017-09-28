@@ -11,8 +11,8 @@ url: "https://silentsharer.github.io" # the base hostname & protocol for your si
 author: silentsharer # add your name
 author-img: silentsharer.png # add your photo
 about-author: A coder who does not write code # add description
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
+twitter: https://twitter.com/ # add your Twitter handle
+facebook: https://www.facebook.com/ # add your Facebook handle
 github: silentsharer # add your Github handle
 linkedin: silentsharer # add your Linkedin handle
 email: ssilentsharer@gmail.com # add your Email address
